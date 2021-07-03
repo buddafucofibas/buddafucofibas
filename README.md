@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning NodeJS and React
 - 💞️ I’m looking to collaborate on anything that will help me develop my skills
 - 📫 How to reach me on twitter [@PharmDTechie](https://twitter.com/PharmDTechie)
-
+- 👨🏿‍💻 My personal [website](https://pharmdtechie.net/)
